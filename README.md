@@ -161,7 +161,7 @@ class="btn btn-primary m-auto"
 
  ---
 ## Criando Layout
-Primeiro baixe o ícone do Pikachu nesse [link](), esse site possui diversos ícones muito legais para utilizar em projetos.
+Primeiro baixe o ícone do Pikachu nesse [link](https://cdn-icons-png.flaticon.com/512/188/188987.png), esse site possui diversos ícones muito legais para utilizar em projetos.
 Baixe o .ico de 128px e coloque na pasta "Public", substituindo pelo "favicon.ico" e depois baixe um .svg de 512px e coloque na pasta "src/assests"(esse é o ícne que vamos utilizar na barra de navegação).
 
 Para criar o Layout do nosso projeto inicialmente vamos trabalhar com esse HTML:
